@@ -1,0 +1,57 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '15.0'
+
+target 'MVP-UI' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for MVP-UI
+  
+use_frameworks!
+pod 'KeychainSwift'
+pod 'SwiftGen','~> 6.0'
+
+platform :ios, '15.0'
+
+end
+
+target 'RecipiesMock' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for RecipiesMock
+  
+use_frameworks!
+pod 'KeychainSwift'
+pod 'SwiftGen','~> 6.0'
+
+platform :ios, '15.0'
+
+end
+target 'RecipelyTest' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for RecipelyTest
+  
+use_frameworks!
+pod 'KeychainSwift'
+pod 'SwiftGen','~> 6.0'
+
+platform :ios, '15.0'
+
+end
+
+target 'MVP-UITests' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for MVP-UITests
+  
+use_frameworks!
+pod 'KeychainSwift'
+pod 'SwiftGen','~> 6.0'
+
+platform :ios, '15.0'
+
+end
