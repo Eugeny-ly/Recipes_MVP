@@ -1,0 +1,33 @@
+{
+  "originHash" : "848aa14fa02623d6f4adb12116fbaa501b90193a264bcc6b60724ca85977b6ec",
+  "pins" : [
+    {
+      "identity" : "ios-maps-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/googlemaps/ios-maps-sdk",
+      "state" : {
+        "revision" : "bd392d7d844b49ec6795871a3c25edd01ab839f2",
+        "version" : "8.4.0"
+      }
+    },
+    {
+      "identity" : "swinject",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Swinject/Swinject.git",
+      "state" : {
+        "revision" : "b45ac37ca19905b2e12c429807e1955a7d43d1fd",
+        "version" : "2.8.6"
+      }
+    },
+    {
+      "identity" : "textfielditem",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Vaka37/TextFieldItem",
+      "state" : {
+        "revision" : "59f2dd8ada7e0871464b77040eb64f26353c5e5f",
+        "version" : "1.0.2"
+      }
+    }
+  ],
+  "version" : 3
+}

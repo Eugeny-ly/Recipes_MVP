@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  MVP-UI
+
+  Created by Vakil on 29.03.2024.
+  
+*/
+// MARK: - Авторизация
+"Login" = "Login";
+"Email Address" = "Email Address";
+"Password" = "Password";
+"Enter Email Address" = "Enter Email Address";
+"Enter Password" = "Enter Password";
+/// Некоректный формат
+"Incorrect format" = "Incorrect format";
+/// Введите коректный пароль
+"You entered the wrong password" = "You entered the wrong password";
+/// Проверка пароля не прошла
+"Please check the accuracy of the entered credentials." = "Please check the accuracy of the entered credentials";
+
+// MARK: - CollectionView Recipes
+"recipes.titleRecipesItem" = "Recipes";
+// MARK: - CoreData
+"coreData.recipeDateEntity" = "RecipeData";
+"coreData.detailRecipeDateEntity" = "DetailsRecipesData";
+
+// MARK: - MapView
+
+"map.title" = "You can get gifts and discounts from our partners";
+
